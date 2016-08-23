@@ -22,6 +22,9 @@
 
 //************Uncomment next line for the parallel computations with MPI*********
 // #define PARMPI
+/*** The following flags make sure the MPI C++ bindings are not included ***/
+// #define OMPI_SKIP_MPICXX
+// #define MPICH_SKIP_MPICXX
 //*******************************************************************************
 
 
