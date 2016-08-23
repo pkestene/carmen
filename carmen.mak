@@ -72,6 +72,7 @@ ReactionRate.o \
 RefreshTree.o \
 Remesh.o \
 SchemeAUSM.o \
+SchemeAUSMDV.o \
 SchemeCentered.o \
 SchemeENO2.o \
 SchemeENO3.o \
